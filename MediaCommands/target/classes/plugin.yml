@@ -1,0 +1,7 @@
+permissions:
+  keki.newvideo:
+    description: Permite a los jugadores usar el comando /newvideo
+    default: op
+  keki.stream:
+    description: Permite a los jugadores usar el comando /stream
+    default: op
